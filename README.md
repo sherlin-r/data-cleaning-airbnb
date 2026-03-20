@@ -27,7 +27,7 @@ The dataset was cleaned and prepared for further data analysis and visualization
 ## 📁 Files Included
 
 * `data_cleaning.ipynb` – Code file
-* Note: The full dataset is not uploaded due to size limitations. A sample dataset is included.
+* Note: The full dataset is not uploaded due to size limitations.
 
 ## 🚀 Conclusion
 
